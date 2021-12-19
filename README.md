@@ -9,10 +9,8 @@ Recipes app to train concepts of API consuming with Retrofit, GSON, Jsoup, Room,
 <br>
     <img src="images/img_1.png" width="199" height="419" />
 
-
 #### main architecture
 + mvvm, with remote datasource to fetch data and local to store specific data
-<img src="images/img.png" width="580" height="309" />
 
 ### offline cache
 we only do api requests to the remote datasource when:
