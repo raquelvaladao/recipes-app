@@ -6,7 +6,8 @@ Recipes app to train concepts of API consuming with Retrofit, GSON, Jsoup, Room,
 
 ### Current situation (19/12/2021)
 +   Fetched data from Spooncular API
-![](images/img_1.png)
+    <img src="images/img_1.png" width="199" height="419" />
+
 
 ### offline cache
 we only do api requests to a remote datasource when:
